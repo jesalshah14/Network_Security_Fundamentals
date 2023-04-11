@@ -18,4 +18,4 @@ class Client:
             print("Something went wrong and wasn't possible to connect to a server")
             
             
-            #testing check again....
+            #testing check again....dddd
